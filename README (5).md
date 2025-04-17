@@ -44,6 +44,7 @@ Persistence: All accepted candidates are stored in localStorage to survive page 
 To deploy this project run
 
 ```bash
+  npm install
   npm run dev
 ```
 
