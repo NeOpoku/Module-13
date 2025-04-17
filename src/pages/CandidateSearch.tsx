@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { searchGithubUser, searchGithub } from '../api/API';
+import { searchGithub } from '../api/API';
 import { Candidate } from '../interfaces/Candidate.interface';
 import CandidateCard from '../components/CandidateCard.tsx';
 
